@@ -22,7 +22,7 @@ body{
     color: white;
     border-radius: 30px;
     border-color: black;
-    width: 200px;
+    width: 500px;
 }
 
 .btn-1::after, .btn-1::before{
